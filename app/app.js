@@ -100,12 +100,12 @@ const questions =[
     {
         image: "imgs/g7_question9.jpeg",
         alt: " Image question 9",
-        question: "¿Qué canción de GOT7 es para migajear?",
+        question: "¿Qué canción de GOT7 es para Migajear?",
         answers: [
             {answer: "Darling", isCorrect: false},
             {answer: "Enough", isCorrect: false},
             {answer: "You Calling My Name", isCorrect: false},            
-            {answer: "If You do", isCorrect: true},
+            {answer: "If You Do", isCorrect: true},
         ]
     },
     // Question 10
@@ -141,7 +141,7 @@ const questions =[
             {answer: "Smooth", isCorrect: false},
             {answer: "Python", isCorrect: true},
             {answer: "Tidal Wave", isCorrect: false},
-            {answer: "Out the door", isCorrect: false},
+            {answer: "Out The Door", isCorrect: false},
         ]
     }
 ];
